@@ -1,6 +1,6 @@
 import React from 'react';
 import './style.css';
-import gFetch from 'Promise.js';
+import gFetch from './Promise.js';
 
 export default function App() {
   gFetch
